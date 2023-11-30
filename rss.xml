@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <item>
+      <title>Kapricoza</title>
+      <link>Meni.html</link>
+      <description>Pelat, kačkavalj, šunka, pečurke, origano, masline</description>
+    </item>
+  <item>
+    <title>Margarita</title>
+    <link>Meni.html</link>
+    <description>Pelat, kačkavalj, origano, masline</description>
+  </item>
+</channel>
+  <item>
+    <title>vegetarijana</title>
+    <link>Meni.html</link>
+    <description>pelat, mocarela, pečurke, mešano povrće, masline, origano</description>
+  </item>
+</channel>
+  <item>
+    <title>cetiri-vrste-sira</title>
+    <link>Meni.html</link>
+    <description>Neutralna pavlaka, gauda, sveža mocarela, parmezan, gorgonzola, origano, masline</description>
+  </item>
+</channel>
+  <item>
+    <title>cetiri-sezone</title>
+    <link>Meni.html</link>
+    <description>Pelat, kačkavalj, origano, masline</description>
+  </item>
+</channel>
+  <item>
+    <title>posna</title>
+    <link>Meni.html</link>
+    <description>Pelat, posni sir, tunjevina, pečurke, origano, masline, paradajz</description>
+  </item>
+</channel>
+
+</rss>
