@@ -618,3 +618,7 @@ a{
 .formular p{
 	font-size: 30px;
 }
+
+#klik{
+	cursor: pointer;
+}
