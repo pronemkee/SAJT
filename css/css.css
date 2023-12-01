@@ -82,6 +82,15 @@ a{
 	right: 0;
 	width: 1200px;
 	margin: 0 auto;
+	animation-name: ulazak;
+	animation-duration: 3s;
+	animation-fill-mode: forwards;
+	animation-timing-function: ease-out;
+}
+
+@keyframes ulazak{
+	from {left: -2500px;}
+	to {right: 0px;}
 }
 
 .za-sliku{
@@ -571,4 +580,37 @@ a{
 
 .slike-pozadina{
 	background-color: rgba(247, 247, 214, 0.746);
+}
+
+.formular{
+	width: 60%;
+	padding-top: 35px;
+	margin: 65px auto 0 auto;
+	padding-bottom: 35px;
+	text-align: center;
+	background-color: aliceblue;
+	border-radius: 50%;
+}
+
+.tekstarea{
+	width: 300px;
+	height: 100px;
+}
+
+.dugme{
+	background-color: darkblue;
+	border-radius: 50%;
+	color: white;
+	font-size: 20px;
+	border: none;
+	margin-top: 15px;
+}
+
+.dugme:hover{
+	color: orange;
+	cursor: pointer;
+}
+
+.formular p{
+	font-size: 30px;
 }
